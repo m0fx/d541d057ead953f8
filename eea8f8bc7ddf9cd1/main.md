@@ -48,4 +48,6 @@
 ![2025-05-07-011148](./src/img/2025-05-07-011148.png)
 
 #### Demo video
-<video src="http://47.99.62.25:47619/JeeWMS-SSTI.mp4"></video>
+http://47.99.62.25:47619/JeeWMS-SSTI.mp4
+
+<iframe width="560" height="315" src="http://47.99.62.25:47619/JeeWMS-SSTI.mp4" frameborder="0" allowfullscreen></iframe>
