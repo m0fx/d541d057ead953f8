@@ -50,5 +50,5 @@
 #### Demo video
   Due to server performance issues, it is recommended to watch after downloading. 
   
-http://47.99.62.25:47619/JeeWMS-SSTI.mp4
+[http://47.99.62.25:47619/JeeWMS-SSTI.mp4](http://47.99.62.25/videos/JeeWMS-SSTI.mp4)
 
